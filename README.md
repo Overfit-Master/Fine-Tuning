@@ -14,4 +14,4 @@ A project about fine-tuning exercise with some codes and details while excising 
 
 |Folder_name         |Task              |
 |:------------------:|:----------------:|
-|[Qwen2_Classification]()|Classify the input text into the area it belongs to.|
+|[Qwen2_Classification](https://github.com/Overfit-Master/Fine-Tuning/tree/main/Qwen2_Classification)|Classify the input text into the area it belongs to.|
